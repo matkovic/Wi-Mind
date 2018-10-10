@@ -1,0 +1,73 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\tmatko\Downloads\Microsoft Band SDK and Samples for Android\BandHeartRateApp\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\tmatko\Downloads\Microsoft Band SDK and Samples for Android\BandHeartRateApp\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\tmatko\Downloads\Microsoft Band SDK and Samples for Android\BandHeartRateApp\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\tmatko\Downloads\Microsoft Band SDK and Samples for Android\BandHeartRateApp\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\tmatko\Downloads\Microsoft Band SDK and Samples for Android\BandHeartRateApp\AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from C:\Users\tmatko\Downloads\Microsoft Band SDK and Samples for Android\BandHeartRateApp\AndroidManifest.xml:3:5-47
+	android:versionName
+		ADDED from C:\Users\tmatko\Downloads\Microsoft Band SDK and Samples for Android\BandHeartRateApp\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\tmatko\Downloads\Microsoft Band SDK and Samples for Android\BandHeartRateApp\AndroidManifest.xml
+		INJECTED from C:\Users\tmatko\Downloads\Microsoft Band SDK and Samples for Android\BandHeartRateApp\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\tmatko\Downloads\Microsoft Band SDK and Samples for Android\BandHeartRateApp\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\tmatko\Downloads\Microsoft Band SDK and Samples for Android\BandHeartRateApp\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\tmatko\Downloads\Microsoft Band SDK and Samples for Android\BandHeartRateApp\AndroidManifest.xml
+		INJECTED from C:\Users\tmatko\Downloads\Microsoft Band SDK and Samples for Android\BandHeartRateApp\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Users\tmatko\Downloads\Microsoft Band SDK and Samples for Android\BandHeartRateApp\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from C:\Users\tmatko\Downloads\Microsoft Band SDK and Samples for Android\BandHeartRateApp\AndroidManifest.xml:9:9-38
+	android:minSdkVersion
+		ADDED from C:\Users\tmatko\Downloads\Microsoft Band SDK and Samples for Android\BandHeartRateApp\AndroidManifest.xml:8:9-35
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\tmatko\Downloads\Microsoft Band SDK and Samples for Android\BandHeartRateApp\AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from C:\Users\tmatko\Downloads\Microsoft Band SDK and Samples for Android\BandHeartRateApp\AndroidManifest.xml:11:22-65
+uses-permission#com.microsoft.band.service.access.BIND_BAND_SERVICE
+ADDED from C:\Users\tmatko\Downloads\Microsoft Band SDK and Samples for Android\BandHeartRateApp\AndroidManifest.xml:12:5-91
+	android:name
+		ADDED from C:\Users\tmatko\Downloads\Microsoft Band SDK and Samples for Android\BandHeartRateApp\AndroidManifest.xml:12:22-88
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\tmatko\Downloads\Microsoft Band SDK and Samples for Android\BandHeartRateApp\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from C:\Users\tmatko\Downloads\Microsoft Band SDK and Samples for Android\BandHeartRateApp\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.STORAGE
+ADDED from C:\Users\tmatko\Downloads\Microsoft Band SDK and Samples for Android\BandHeartRateApp\AndroidManifest.xml:14:5-66
+	android:name
+		ADDED from C:\Users\tmatko\Downloads\Microsoft Band SDK and Samples for Android\BandHeartRateApp\AndroidManifest.xml:14:22-63
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\tmatko\Downloads\Microsoft Band SDK and Samples for Android\BandHeartRateApp\AndroidManifest.xml:15:5-80
+	android:name
+		ADDED from C:\Users\tmatko\Downloads\Microsoft Band SDK and Samples for Android\BandHeartRateApp\AndroidManifest.xml:15:22-77
+application
+ADDED from C:\Users\tmatko\Downloads\Microsoft Band SDK and Samples for Android\BandHeartRateApp\AndroidManifest.xml:17:5-32:19
+	android:label
+		ADDED from C:\Users\tmatko\Downloads\Microsoft Band SDK and Samples for Android\BandHeartRateApp\AndroidManifest.xml:20:9-41
+	android:icon
+		ADDED from C:\Users\tmatko\Downloads\Microsoft Band SDK and Samples for Android\BandHeartRateApp\AndroidManifest.xml:19:9-45
+	android:allowBackup
+		ADDED from C:\Users\tmatko\Downloads\Microsoft Band SDK and Samples for Android\BandHeartRateApp\AndroidManifest.xml:18:9-35
+	android:theme
+		ADDED from C:\Users\tmatko\Downloads\Microsoft Band SDK and Samples for Android\BandHeartRateApp\AndroidManifest.xml:21:9-40
+activity#com.microsoft.band.sdk.heartrate.BandHeartRateAppActivity
+ADDED from C:\Users\tmatko\Downloads\Microsoft Band SDK and Samples for Android\BandHeartRateApp\AndroidManifest.xml:22:9-31:20
+	android:screenOrientation
+		ADDED from C:\Users\tmatko\Downloads\Microsoft Band SDK and Samples for Android\BandHeartRateApp\AndroidManifest.xml:24:13-49
+	android:label
+		ADDED from C:\Users\tmatko\Downloads\Microsoft Band SDK and Samples for Android\BandHeartRateApp\AndroidManifest.xml:25:13-45
+	android:name
+		ADDED from C:\Users\tmatko\Downloads\Microsoft Band SDK and Samples for Android\BandHeartRateApp\AndroidManifest.xml:23:13-85
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\tmatko\Downloads\Microsoft Band SDK and Samples for Android\BandHeartRateApp\AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\tmatko\Downloads\Microsoft Band SDK and Samples for Android\BandHeartRateApp\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from C:\Users\tmatko\Downloads\Microsoft Band SDK and Samples for Android\BandHeartRateApp\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\tmatko\Downloads\Microsoft Band SDK and Samples for Android\BandHeartRateApp\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from C:\Users\tmatko\Downloads\Microsoft Band SDK and Samples for Android\BandHeartRateApp\AndroidManifest.xml:29:27-74

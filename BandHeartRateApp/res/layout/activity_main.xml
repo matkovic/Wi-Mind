@@ -1,0 +1,51 @@
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="15dp"
+    android:orientation="vertical"
+    android:keepScreenOn="true"
+    >
+
+    <TextView
+        android:id="@+id/txtStep"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/steps" />
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="insert name"
+        android:inputType="textPersonName"
+        android:selectAllOnFocus="false" />
+
+    <Button
+        android:id="@+id/btnStart"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/start" />
+
+    <Button
+        android:id="@+id/btnStop"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/stop" />
+
+    <Button
+        android:id="@+id/btnConsent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/consent" />
+    
+    <TextView
+        android:id="@+id/txtStatus"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="" />
+
+</LinearLayout>
+

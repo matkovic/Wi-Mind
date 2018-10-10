@@ -1,0 +1,134 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\tmatko\\Downloads\\Microsoft Band SDK and Samples for Android\\BandHeartRateApp\\build\\intermediates\\res\\merged\\debug\\values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\tmatko\\Downloads\\Microsoft Band SDK and Samples for Android\\BandHeartRateApp\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "182",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "323"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "194"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\tmatko\\Downloads\\Microsoft Band SDK and Samples for Android\\BandHeartRateApp\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\tmatko\\Downloads\\Microsoft Band SDK and Samples for Android\\BandHeartRateApp\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "191,534",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "493,691"
+                    },
+                    "to": {
+                        "startLines": "17,24",
+                        "startColumns": "4,4",
+                        "startOffsets": "855,1158",
+                        "endLines": "23,26",
+                        "endColumns": "12,12",
+                        "endOffsets": "1153,1313"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\tmatko\\Downloads\\Microsoft Band SDK and Samples for Android\\BandHeartRateApp\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "92,151",
+                        "endColumns": "57,55",
+                        "endOffsets": "145,202"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\tmatko\\Downloads\\Microsoft Band SDK and Samples for Android\\BandHeartRateApp\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,3,18,14,6,16",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "116,56,694,614,174,655",
+                        "endLines": "4,3,18,14,13,16",
+                        "endColumns": "52,59,54,39,72,37",
+                        "endOffsets": "164,111,744,649,609,688"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,16",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "169,222,282,337,377,817",
+                        "endLines": "4,5,6,7,15,16",
+                        "endColumns": "52,59,54,39,72,37",
+                        "endOffsets": "217,277,332,372,812,850"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\tmatko\\Downloads\\Microsoft Band SDK and Samples for Android\\BandHeartRateApp\\build\\intermediates\\res\\merged\\debug\\values-w820dp-v13_values-w820dp-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\tmatko\\Downloads\\Microsoft Band SDK and Samples for Android\\BandHeartRateApp\\res\\values-w820dp\\dimens.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "310",
+                        "endColumns": "57",
+                        "endOffsets": "363"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "57",
+                        "endOffsets": "108"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\tmatko\\Downloads\\Microsoft Band SDK and Samples for Android\\BandHeartRateApp\\build\\intermediates\\res\\merged\\debug\\values-v14_values-v14.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\tmatko\\Downloads\\Microsoft Band SDK and Samples for Android\\BandHeartRateApp\\res\\values-v14\\styles.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "225",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "380"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "208"
+                    }
+                }
+            ]
+        }
+    ]
+}
