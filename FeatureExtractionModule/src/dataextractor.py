@@ -4,7 +4,6 @@ import math
 import matplotlib.pyplot as plt
 import pandas as pd
 from peakutils.peak import indexes
-from scipy.interpolate import interp1d
 
 
 class DataExtractor:

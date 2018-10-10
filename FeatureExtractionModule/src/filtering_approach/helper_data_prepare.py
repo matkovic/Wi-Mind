@@ -122,10 +122,14 @@ def full_signal_extract(path, ident):
 def extract_for_all_users_and_combine(path, idents, outfile):
     for i in idents:
         print(i)
-        # plot_whole_signal_and_tasks_times(path, i)
         full_signal_extract(path, i)
-    # outfile = 'full-data_1.csv'  # uncomment if combining multiple files
     append_csv_files(path, idents, outfile)
+
+
+def plot_all_full_signals(path, idents):
+    for i in idents:
+        print(i)
+        plot_whole_signal_and_tasks_times(path, i)
 
 
 def compare_extracted_hr_and_band(path, ident):
