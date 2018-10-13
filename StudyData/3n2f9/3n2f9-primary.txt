@@ -1,0 +1,600 @@
+create file
+2018:8:14:17:39:59:675, Sync Slide 
+2018:8:14:17:40:11:263, Sync 
+2018:8:14:17:40:11:263, Sync Slide 
+2018:8:14:17:40:15:791, Sync 
+
+2018:8:14:17:40:15:791, Break Slide 
+
+2018:8:14:17:41:45:797, Test Continues Slide
+
+2018:8:14:17:41:51:351, Instruction Slide, Hidden Pattern Questions
+
+2018:8:14:17:42:56:257, Hidden Pattern Question Slide, HiddenPattern3.txt, High, 90
+2018:8:14:17:43:0:831, 'image/HiddenPatterns/High/HP_high_1_2_true.jpg' selected
+2018:8:14:17:43:5:647, 'image/HiddenPatterns/High/HP_high_1_1_true.jpg' selected
+2018:8:14:17:43:11:975, 'image/HiddenPatterns/High/HP_high_1_3_false.jpg' selected
+2018:8:14:17:43:14:383, 'image/HiddenPatterns/High/HP_high_1_3_false.jpg' cleared
+2018:8:14:17:43:23:983, 'image/HiddenPatterns/High/HP_high_1_3_true.jpg' selected
+2018:8:14:17:43:29:727, 'image/HiddenPatterns/High/HP_high_1_4_true.jpg' selected
+
+2018:8:14:17:43:32:487, Hidden Pattern Question Slide, HiddenPattern3.txt, High, 180
+2018:8:14:17:43:39:839, 'image/HiddenPatterns/High/HP_high_2_3_true.jpg' selected
+2018:8:14:17:43:46:631, 'image/HiddenPatterns/High/HP_high_2_1_true.jpg' selected
+2018:8:14:17:43:52:359, 'image/HiddenPatterns/High/HP_high_2_2_true.jpg' selected
+2018:8:14:17:43:55:599, 'image/HiddenPatterns/High/HP_high_2_4_true.jpg' selected
+
+2018:8:14:17:43:56:839, Hidden Pattern Question Slide, HiddenPattern3.txt, High, 270
+2018:8:14:17:44:7:327, 'image/HiddenPatterns/High/HP_high_3_2_true.jpg' selected
+2018:8:14:17:44:15:39, 'image/HiddenPatterns/High/HP_high_3_1_true.jpg' selected
+2018:8:14:17:44:18:535, 'image/HiddenPatterns/High/HP_high_3_4_true.jpg' selected
+2018:8:14:17:44:23:887, 'image/HiddenPatterns/High/HP_high_3_3_true.jpg' selected
+2018:8:14:17:44:26:687, 'image/HiddenPatterns/High/HP_high_3_2_true.jpg' selected
+
+2018:8:14:17:44:28:599, Hidden Pattern Question Slide, HiddenPattern3.txt, High, 0
+2018:8:14:17:44:33:952, 'image/HiddenPatterns/High/HP_high_4_1_true.jpg' selected
+2018:8:14:17:44:35:415, 'image/HiddenPatterns/High/HP_high_4_3_true.jpg' selected
+2018:8:14:17:44:40:463, 'image/HiddenPatterns/High/HP_high_4_4_true.jpg' selected
+2018:8:14:17:44:46:751, 'image/HiddenPatterns/High/HP_high_4_2_true.jpg' selected
+
+2018:8:14:17:44:50:503, Hidden Pattern Question Slide, HiddenPattern3.txt, High, 90
+2018:8:14:17:44:56:354, Beep 
+2018:8:14:17:44:58:983, 'image/HiddenPatterns/High/HP_high_5_3_true.jpg' selected
+2018:8:14:17:45:4:296, 'image/HiddenPatterns/High/HP_high_5_1_true.jpg' selected
+2018:8:14:17:45:14:599, 'image/HiddenPatterns/High/HP_high_5_4_true.jpg' selected
+
+2018:8:14:17:45:16:672, Rating Slide
+2018:8:14:17:45:44:512, Mental, Srednje
+2018:8:14:17:45:47:695, Physical, Nizko
+2018:8:14:17:45:50:855, Temporal, Srednje
+2018:8:14:17:45:55:943, Performance, Dobro
+2018:8:14:17:45:59:231, Effort, Veliko
+2018:8:14:17:46:8:120, Frustration, Nizko
+
+2018:8:14:17:46:9:560, Break Slide 
+
+2018:8:14:17:46:39:562, Test Continues Slide
+
+2018:8:14:17:46:48:450, Hidden Pattern Question Slide, HiddenPattern1.txt, Low, 180
+2018:8:14:17:46:54:104, 'image/HiddenPatterns/Low/HP_low_1_2_true.jpg' selected
+2018:8:14:17:46:55:943, 'image/HiddenPatterns/Low/HP_low_1_1_true.jpg' selected
+2018:8:14:17:47:1:32, 'image/HiddenPatterns/Low/HP_low_1_3_true.jpg' selected
+2018:8:14:17:47:3:960, 'image/HiddenPatterns/Low/HP_low_1_4_true.jpg' selected
+
+2018:8:14:17:47:7:16, Hidden Pattern Question Slide, HiddenPattern1.txt, Low, 270
+2018:8:14:17:47:10:160, 'image/HiddenPatterns/Low/HP_low_2_3_true.jpg' selected
+2018:8:14:17:47:13:32, 'image/HiddenPatterns/Low/HP_low_2_1_true.jpg' selected
+2018:8:14:17:47:16:248, 'image/HiddenPatterns/Low/HP_low_2_2_true.jpg' selected
+2018:8:14:17:47:20:336, 'image/HiddenPatterns/Low/HP_low_2_4_true.jpg' selected
+
+2018:8:14:17:47:21:784, Hidden Pattern Question Slide, HiddenPattern1.txt, Low, 0
+2018:8:14:17:47:26:952, 'image/HiddenPatterns/Low/HP_low_3_2_true.jpg' selected
+2018:8:14:17:47:28:776, 'image/HiddenPatterns/Low/HP_low_3_1_true.jpg' selected
+2018:8:14:17:47:32:272, 'image/HiddenPatterns/Low/HP_low_3_4_true.jpg' selected
+2018:8:14:17:47:34:320, 'image/HiddenPatterns/Low/HP_low_3_3_true.jpg' selected
+2018:8:14:17:47:36:984, 'image/HiddenPatterns/Low/HP_low_3_2_true.jpg' selected
+
+2018:8:14:17:47:38:472, Hidden Pattern Question Slide, HiddenPattern1.txt, Low, 90
+2018:8:14:17:47:41:920, 'image/HiddenPatterns/Low/HP_low_4_1_true.jpg' selected
+2018:8:14:17:47:44:976, 'image/HiddenPatterns/Low/HP_low_4_3_true.jpg' selected
+2018:8:14:17:47:48:672, 'image/HiddenPatterns/Low/HP_low_4_4_true.jpg' selected
+2018:8:14:17:47:53:544, 'image/HiddenPatterns/Low/HP_low_4_2_true.jpg' selected
+
+2018:8:14:17:47:55:264, Hidden Pattern Question Slide, HiddenPattern1.txt, Low, 180
+2018:8:14:17:47:57:208, 'image/HiddenPatterns/Low/HP_low_5_2_true.jpg' selected
+2018:8:14:17:48:0:848, 'image/HiddenPatterns/Low/HP_low_5_3_true.jpg' selected
+2018:8:14:17:48:3:720, 'image/HiddenPatterns/Low/HP_low_5_1_true.jpg' selected
+2018:8:14:17:48:7:624, 'image/HiddenPatterns/Low/HP_low_5_4_true.jpg' selected
+
+2018:8:14:17:48:9:992, Rating Slide
+2018:8:14:17:48:14:745, Mental, Nizko
+2018:8:14:17:48:18:112, Physical, Zelo nizko
+2018:8:14:17:48:22:664, Temporal, Nizko
+2018:8:14:17:48:28:384, Performance, Zelo dobro
+2018:8:14:17:48:30:152, Effort, Malo
+2018:8:14:17:48:32:560, Frustration, Zelo nizko
+2018:8:14:17:48:43:32, Frustration, Nizko
+
+2018:8:14:17:48:44:920, Break Slide 
+
+2018:8:14:17:49:14:923, Test Continues Slide
+
+2018:8:14:17:49:18:576, Hidden Pattern Question Slide, HiddenPattern2.txt, Medium, 270
+2018:8:14:17:49:22:727, 'image/HiddenPatterns/Medium/HP_medium_1_2_true.jpg' selected
+2018:8:14:17:49:25:263, 'image/HiddenPatterns/Medium/HP_medium_1_1_true.jpg' selected
+2018:8:14:17:49:28:792, 'image/HiddenPatterns/Medium/HP_medium_1_3_true.jpg' selected
+2018:8:14:17:49:32:296, 'image/HiddenPatterns/Medium/HP_medium_1_4_true.jpg' selected
+
+2018:8:14:17:49:36:368, Hidden Pattern Question Slide, HiddenPattern2.txt, Medium, 0
+2018:8:14:17:49:39:623, 'image/HiddenPatterns/Medium/HP_medium_2_3_true.jpg' selected
+2018:8:14:17:49:45:543, 'image/HiddenPatterns/Medium/HP_medium_2_1_true.jpg' selected
+2018:8:14:17:49:49:480, 'image/HiddenPatterns/Medium/HP_medium_2_2_true.jpg' selected
+2018:8:14:17:49:52:343, 'image/HiddenPatterns/Medium/HP_medium_2_4_true.jpg' selected
+
+2018:8:14:17:49:53:416, Hidden Pattern Question Slide, HiddenPattern2.txt, Medium, 90
+2018:8:14:17:50:0:367, 'image/HiddenPatterns/Medium/HP_medium_3_2_true.jpg' selected
+2018:8:14:17:50:3:783, 'image/HiddenPatterns/Medium/HP_medium_3_1_true.jpg' selected
+2018:8:14:17:50:7:127, 'image/HiddenPatterns/Medium/HP_medium_3_3_true.jpg' selected
+2018:8:14:17:50:9:975, 'image/HiddenPatterns/Medium/HP_medium_3_2_true.jpg' selected
+
+2018:8:14:17:50:13:16, Hidden Pattern Question Slide, HiddenPattern2.txt, Medium, 180
+2018:8:14:17:50:16:303, 'image/HiddenPatterns/Medium/HP_medium_4_1_true.jpg' selected
+2018:8:14:17:50:18:295, 'image/HiddenPatterns/Medium/HP_medium_4_3_true.jpg' selected
+2018:8:14:17:50:23:25, 'image/HiddenPatterns/Medium/HP_medium_4_4_true.jpg' selected
+2018:8:14:17:50:26:871, 'image/HiddenPatterns/Medium/HP_medium_4_2_true.jpg' selected
+
+2018:8:14:17:50:30:815, Hidden Pattern Question Slide, HiddenPattern2.txt, Medium, 270
+2018:8:14:17:50:33:39, 'image/HiddenPatterns/Medium/HP_medium_5_2_true.jpg' selected
+2018:8:14:17:50:37:783, 'image/HiddenPatterns/Medium/HP_medium_5_3_true.jpg' selected
+2018:8:14:17:50:40:55, 'image/HiddenPatterns/Medium/HP_medium_5_1_true.jpg' selected
+2018:8:14:17:50:43:839, 'image/HiddenPatterns/Medium/HP_medium_5_4_true.jpg' selected
+
+2018:8:14:17:50:45:359, Rating Slide
+2018:8:14:17:50:56:799, Mental, Nizko
+2018:8:14:17:51:3:143, Physical, Nizko
+2018:8:14:17:51:7:967, Temporal, Srednje
+2018:8:14:17:51:13:407, Performance, Dobro
+2018:8:14:17:51:15:55, Effort, Srednje
+2018:8:14:17:51:17:647, Frustration, Srednje
+
+2018:8:14:17:51:18:599, Break Slide 
+
+2018:8:14:17:51:48:607, Test Continues Slide
+
+2018:8:14:17:51:53:335, Instruction Slide, Finding A's Questions
+
+2018:8:14:17:52:36:169, Finding A's Question Slide, FindingAs_3.txt, High
+2018:8:14:17:52:42:231, 'evroglasbe' selected
+2018:8:14:17:52:48:815, 'enobarvni' selected
+2018:8:14:17:52:52:583, 'sleparstvo' selected
+2018:8:14:17:53:30:879, 'ozdravite' selected
+2018:8:14:17:54:32:575, 'kamnolom' selected
+
+2018:8:14:17:54:33:647, Finding A's Question Slide, FindingAs_3.txt, High
+2018:8:14:17:54:36:182, Beep 
+2018:8:14:17:54:39:550, 'dirkalnik' selected
+2018:8:14:17:54:52:246, 'izkopanine' selected
+2018:8:14:17:54:53:798, 'podpazduh' selected
+2018:8:14:17:55:3:350, 'kakovost' selected
+2018:8:14:17:55:16:727, 'etnograf' selected
+
+2018:8:14:17:55:17:839, Rating Slide
+2018:8:14:17:55:21:878, Mental, Visoko
+2018:8:14:17:55:24:846, Physical, Srednje
+2018:8:14:17:55:30:750, Temporal, Visoko
+2018:8:14:17:55:33:662, Performance, Slabo
+2018:8:14:17:55:38:366, Effort, Veliko
+2018:8:14:17:55:43:366, Frustration, Visoko
+
+2018:8:14:17:55:45:207, Break Slide 
+
+2018:8:14:17:56:15:210, Test Continues Slide
+
+2018:8:14:17:56:18:351, Finding A's Question Slide, FindingAs_2.txt, Medium
+2018:8:14:17:56:31:847, 'cvirnat' selected
+2018:8:14:17:56:32:326, 'rituali' selected
+2018:8:14:17:56:40:142, 'reagent' selected
+2018:8:14:17:56:43:871, 'kraljev' selected
+2018:8:14:17:58:18:356, Beep 
+
+2018:8:14:17:59:18:357, TimeIsUp Slide 
+
+2018:8:14:17:59:22:799, Rating Slide
+2018:8:14:17:59:32:782, Mental, Zelo visoko
+2018:8:14:17:59:35:958, Physical, Zelo visoko
+2018:8:14:17:59:37:998, Temporal, Zelo visoko
+2018:8:14:17:59:40:686, Performance, Zelo dobro
+2018:8:14:17:59:43:342, Performance, Zelo slabo
+2018:8:14:17:59:46:902, Effort, Zelo veliko
+2018:8:14:17:59:48:766, Frustration, Zelo visoko
+
+2018:8:14:17:59:49:823, Break Slide 
+
+2018:8:14:18:0:19:825, Test Continues Slide
+
+2018:8:14:18:0:23:999, Finding A's Question Slide, FindingAs_1.txt, Low
+2018:8:14:18:0:27:102, 'salo' selected
+2018:8:14:18:0:40:766, 'hram' selected
+2018:8:14:18:0:43:998, 'gram' selected
+2018:8:14:18:0:46:222, 'bar' selected
+2018:8:14:18:1:15:310, 'rože' selected
+2018:8:14:18:1:15:718, 'livade' selected
+
+2018:8:14:18:1:16:775, Finding A's Question Slide, FindingAs_1.txt, Low
+2018:8:14:18:1:26:590, 'brat' selected
+2018:8:14:18:1:28:390, 'copat' selected
+2018:8:14:18:1:37:598, 'sad' selected
+2018:8:14:18:1:47:566, 'frajer' selected
+2018:8:14:18:1:48:718, 'angel' selected
+
+2018:8:14:18:1:49:695, Rating Slide
+2018:8:14:18:1:53:78, Mental, Nizko
+2018:8:14:18:1:56:992, Physical, Srednje
+2018:8:14:18:2:0:214, Temporal, Nizko
+2018:8:14:18:2:3:174, Performance, Dobro
+2018:8:14:18:2:8:862, Effort, Srednje
+2018:8:14:18:2:12:766, Frustration, Srednje
+
+2018:8:14:18:2:14:287, Break Slide 
+
+2018:8:14:18:2:44:289, Test Continues Slide
+
+2018:8:14:18:2:47:455, Instruction Slide, Gestalt Completion Questions
+
+2018:8:14:18:3:24:69, Gestalt Completion Question Slide, GestaltCompletion2.txt, Medium
+2018:8:14:18:3:51:574, image/GestaltCompletion/GC_cat.jpg, 'muca'
+
+2018:8:14:18:3:51:581, Gestalt Completion Question Slide, GestaltCompletion2.txt, Medium
+2018:8:14:18:4:4:400, image/GestaltCompletion/GC_steamshovel.jpg, 'bager'
+
+2018:8:14:18:4:4:400, Gestalt Completion Question Slide, GestaltCompletion2.txt, Medium
+2018:8:14:18:4:56:463, image/GestaltCompletion/GC_hand.jpg, 'panda'
+
+2018:8:14:18:4:56:463, Gestalt Completion Question Slide, GestaltCompletion2.txt, Medium
+2018:8:14:18:5:5:846, image/GestaltCompletion/GC_shoe.jpg, 'muca'
+
+2018:8:14:18:5:5:847, Gestalt Completion Question Slide, GestaltCompletion2.txt, Medium
+2018:8:14:18:5:9:687, image/GestaltCompletion/GC_bicycle2.jpg, 'kolo'
+
+2018:8:14:18:5:9:687, Rating Slide
+2018:8:14:18:5:14:951, Mental, Nizko
+2018:8:14:18:5:16:686, Physical, Nizko
+2018:8:14:18:5:18:366, Temporal, Nizko
+2018:8:14:18:5:23:374, Performance, Srednje
+2018:8:14:18:5:25:271, Effort, Malo
+2018:8:14:18:5:27:742, Frustration, Zelo nizko
+
+2018:8:14:18:5:29:79, Break Slide 
+
+2018:8:14:18:5:59:81, Test Continues Slide
+
+2018:8:14:18:6:1:207, Gestalt Completion Question Slide, GestaltCompletion3.txt, High
+2018:8:14:18:6:6:863, image/GestaltCompletion/GC_bicycle.jpg, 'kolo'
+
+2018:8:14:18:6:6:863, Gestalt Completion Question Slide, GestaltCompletion3.txt, High
+2018:8:14:18:6:14:943, image/GestaltCompletion/GC_cart.jpg, 'slon'
+
+2018:8:14:18:6:14:943, Gestalt Completion Question Slide, GestaltCompletion3.txt, High
+2018:8:14:18:6:43:431, image/GestaltCompletion/GC_chair.jpg, 'voziček'
+
+2018:8:14:18:6:43:431, Gestalt Completion Question Slide, GestaltCompletion3.txt, High
+2018:8:14:18:7:3:407, image/GestaltCompletion/GC_hammer.jpg, 'indijanec'
+
+2018:8:14:18:7:3:407, Gestalt Completion Question Slide, GestaltCompletion3.txt, High
+2018:8:14:18:7:16:383, image/GestaltCompletion/GC_rabbit.jpg, 'trup opice'
+
+2018:8:14:18:7:16:383, Rating Slide
+2018:8:14:18:7:21:511, Mental, Srednje
+2018:8:14:18:7:25:367, Physical, Srednje
+2018:8:14:18:7:26:711, Temporal, Nizko
+2018:8:14:18:7:28:367, Performance, Srednje
+2018:8:14:18:7:29:863, Effort, Srednje
+2018:8:14:18:7:31:847, Frustration, Nizko
+2018:8:14:18:7:33:351, Frustration, Zelo nizko
+
+2018:8:14:18:7:34:447, Break Slide 
+
+2018:8:14:18:8:4:449, Test Continues Slide
+
+2018:8:14:18:8:7:271, Gestalt Completion Question Slide, GestaltCompletion1.txt, Low
+2018:8:14:18:8:11:935, image/GestaltCompletion/GC_sailboat.jpg, 'ladja'
+
+2018:8:14:18:8:11:935, Gestalt Completion Question Slide, GestaltCompletion1.txt, Low
+2018:8:14:18:8:17:863, image/GestaltCompletion/GC_camel.jpg, 'kamela'
+
+2018:8:14:18:8:17:863, Gestalt Completion Question Slide, GestaltCompletion1.txt, Low
+2018:8:14:18:8:21:79, image/GestaltCompletion/GC_dog2.jpg, 'pes'
+
+2018:8:14:18:8:21:79, Gestalt Completion Question Slide, GestaltCompletion1.txt, Low
+2018:8:14:18:8:26:183, image/GestaltCompletion/GC_lamp.jpg, 'kozarec'
+
+2018:8:14:18:8:26:183, Gestalt Completion Question Slide, GestaltCompletion1.txt, Low
+2018:8:14:18:8:32:95, image/GestaltCompletion/GC_chicken.jpg, 'kokoš'
+
+2018:8:14:18:8:32:96, Rating Slide
+2018:8:14:18:8:33:959, Mental, Zelo nizko
+2018:8:14:18:8:34:863, Physical, Zelo nizko
+2018:8:14:18:8:35:727, Temporal, Zelo nizko
+2018:8:14:18:8:37:415, Performance, Zelo dobro
+2018:8:14:18:8:38:407, Effort, Zelo malo
+2018:8:14:18:8:39:351, Frustration, Zelo nizko
+
+2018:8:14:18:8:40:473, Break Slide 
+
+2018:8:14:18:9:10:477, Test Continues Slide
+
+2018:8:14:18:9:13:319, Instruction Slide, Number Comparison Questions
+
+2018:8:14:18:9:46:661, Number Comparison Question Slide, NumberComparison_1.txt, Low
+2018:8:14:18:9:57:303, '65382-65372' selected
+
+2018:8:14:18:9:58:55, Number Comparison Question Slide, NumberComparison_1.txt, Low
+2018:8:14:18:10:1:151, '506915-596915' selected
+2018:8:14:18:10:2:775, '414982-415982' selected
+2018:8:14:18:10:4:375, '347820-349820' selected
+
+2018:8:14:18:10:8:23, Number Comparison Question Slide, NumberComparison_1.txt, Low
+2018:8:14:18:10:11:391, '619605-619505' selected
+2018:8:14:18:10:13:711, '506916-506616' selected
+2018:8:14:18:10:15:383, '8041637-8071637' selected
+2018:8:14:18:10:17:943, '4714306-4715306' selected
+2018:8:14:18:10:21:823, '4573043-4571043' selected
+
+2018:8:14:18:10:22:879, Number Comparison Question Slide, NumberComparison_1.txt, Low
+2018:8:14:18:10:25:431, '49471307-47471307' selected
+2018:8:14:18:10:33:711, '7361408-7361708' selected
+2018:8:14:18:10:36:175, '8041638-8041438' selected
+
+2018:8:14:18:10:37:743, Rating Slide
+2018:8:14:18:10:40:135, Mental, Srednje
+2018:8:14:18:10:44:375, Physical, Srednje
+2018:8:14:18:10:48:455, Temporal, Nizko
+2018:8:14:18:10:51:575, Performance, Dobro
+2018:8:14:18:10:54:95, Effort, Srednje
+2018:8:14:18:10:56:239, Frustration, Nizko
+
+2018:8:14:18:10:57:79, Break Slide 
+
+2018:8:14:18:11:27:81, Test Continues Slide
+
+2018:8:14:18:11:29:335, Number Comparison Question Slide, NumberComparison_3.txt, High
+2018:8:14:18:11:32:911, '786071254329-786071255329' selected
+
+2018:8:14:18:11:55:527, Number Comparison Question Slide, NumberComparison_3.txt, High
+2018:8:14:18:12:6:727, '135299235126-135299235136' selected
+
+2018:8:14:18:12:27:783, Number Comparison Question Slide, NumberComparison_3.txt, High
+2018:8:14:18:13:18:271, '167195871024-167195817024' selected
+
+2018:8:14:18:13:19:311, Number Comparison Question Slide, NumberComparison_3.txt, High
+2018:8:14:18:13:29:337, Beep 
+2018:8:14:18:13:52:303, '731497130631-731497130681' selected
+
+2018:8:14:18:14:0:216, Rating Slide
+2018:8:14:18:14:5:463, Mental, Srednje
+2018:8:14:18:14:9:759, Physical, Srednje
+2018:8:14:18:14:11:375, Temporal, Visoko
+2018:8:14:18:14:12:847, Performance, Srednje
+2018:8:14:18:14:15:151, Performance, Dobro
+2018:8:14:18:14:16:823, Effort, Srednje
+2018:8:14:18:14:18:255, Effort, Veliko
+2018:8:14:18:14:19:967, Frustration, Nizko
+
+2018:8:14:18:14:22:543, Break Slide 
+
+2018:8:14:18:14:52:545, Test Continues Slide
+
+2018:8:14:18:14:54:944, Number Comparison Question Slide, NumberComparison_2.txt, Medium
+2018:8:14:18:15:9:39, '42018591760-43018591760' selected
+
+2018:8:14:18:15:12:936, Number Comparison Question Slide, NumberComparison_2.txt, Medium
+2018:8:14:18:15:17:919, '341798301-341798701' selected
+2018:8:14:18:15:22:111, '3486190173-3486140173' selected
+2018:8:14:18:15:27:823, '37109816843-37189816843' selected
+2018:8:14:18:15:31:255, '68794353108-68754354108' selected
+2018:8:14:18:15:37:167, '6082649875-6082647875' selected
+
+2018:8:14:18:15:37:920, Number Comparison Question Slide, NumberComparison_2.txt, Medium
+2018:8:14:18:15:44:63, '43270105338-43276105338' selected
+2018:8:14:18:15:56:544, '84215073508-84216073508' selected
+
+2018:8:14:18:16:11:104, Number Comparison Question Slide, NumberComparison_2.txt, Medium
+2018:8:14:18:16:18:727, '6312850395-6312850795' selected
+2018:8:14:18:16:24:671, '1251373807-1251373307' selected
+2018:8:14:18:16:28:831, '32018591670-32018691670' selected
+2018:8:14:18:16:32:639, '38210435512-38210535512' selected
+2018:8:14:18:16:37:296, '35789462806-35789562806' selected
+
+2018:8:14:18:16:38:120, Rating Slide
+2018:8:14:18:16:40:871, Mental, Visoko
+2018:8:14:18:16:42:480, Physical, Visoko
+2018:8:14:18:16:44:488, Temporal, Nizko
+2018:8:14:18:16:48:352, Performance, Dobro
+2018:8:14:18:16:49:968, Effort, Veliko
+2018:8:14:18:16:51:784, Frustration, Zelo nizko
+
+2018:8:14:18:16:52:752, Break Slide 
+
+2018:8:14:18:17:22:754, Test Continues Slide
+
+2018:8:14:18:17:29:768, Instruction Slide, Scattered X's Questions
+
+2018:8:14:18:18:2:845, Scattered X's Question Slide, ScatteredXs_1.txt, Low
+2018:8:14:18:18:4:416, (182,109), (180,104)
+2018:8:14:18:18:6:80, (222,307), (214,308)
+2018:8:14:18:18:7:24, (152,343), (154,343)
+2018:8:14:18:18:8:696, (493,118), (485,111)
+2018:8:14:18:18:10:344, (473,349), (480,343)
+
+2018:8:14:18:18:12:0, Scattered X's Question Slide, ScatteredXs_1.txt, Low
+2018:8:14:18:18:14:760, (144,106), (140,98)
+2018:8:14:18:18:15:688, (142,307), (139,301)
+2018:8:14:18:18:17:48, (378,212), (370,207)
+2018:8:14:18:18:18:120, (514,90), (513,98)
+2018:8:14:18:18:19:648, (512,299), (512,302)
+
+2018:8:14:18:18:20:728, Scattered X's Question Slide, ScatteredXs_1.txt, Low
+2018:8:14:18:18:22:712, (190,125), (180,119)
+2018:8:14:18:18:24:160, (281,311), (289,302)
+2018:8:14:18:18:25:136, (399,234), (397,227)
+2018:8:14:18:18:26:88, (500,115), (494,118)
+2018:8:14:18:18:27:32, (479,292), (472,289)
+
+2018:8:14:18:18:28:208, Scattered X's Question Slide, ScatteredXs_1.txt, Low
+2018:8:14:18:18:29:616, (158,110), (153,105)
+2018:8:14:18:18:30:808, (131,339), (132,336)
+2018:8:14:18:18:31:952, (289,272), (282,268)
+2018:8:14:18:18:32:840, (484,296), (472,289)
+2018:8:14:18:18:34:48, (494,114), (493,118)
+
+2018:8:14:18:18:35:160, Rating Slide
+2018:8:14:18:18:39:384, Mental, Zelo nizko
+2018:8:14:18:18:40:280, Physical, Zelo nizko
+2018:8:14:18:18:41:280, Temporal, Zelo nizko
+2018:8:14:18:18:42:656, Performance, Zelo dobro
+2018:8:14:18:18:43:968, Effort, Zelo malo
+2018:8:14:18:18:44:976, Frustration, Zelo nizko
+
+2018:8:14:18:18:46:88, Break Slide 
+
+2018:8:14:18:19:16:90, Test Continues Slide
+
+2018:8:14:18:19:18:600, Scattered X's Question Slide, ScatteredXs_2.txt, Medium
+2018:8:14:18:19:20:144, (115,85), (115,85)
+2018:8:14:18:19:22:256, (33,375), (27,385)
+2018:8:14:18:19:28:48, (301,320), (298,316)
+2018:8:14:18:19:32:80, (507,96), (502,85)
+2018:8:14:18:19:37:360, (497,362), (495,364)
+
+2018:8:14:18:19:39:176, Scattered X's Question Slide, ScatteredXs_2.txt, Medium
+2018:8:14:18:19:40:776, (81,90), (73,83)
+2018:8:14:18:19:44:488, (97,263), (101,258)
+2018:8:14:18:19:48:992, (273,295), (271,296)
+2018:8:14:18:19:52:152, (389,235), (385,225)
+2018:8:14:18:19:54:8, (441,331)
+2018:8:14:18:19:54:552, (429,327), (426,330)
+
+2018:8:14:18:20:1:744, Scattered X's Question Slide, ScatteredXs_2.txt, Medium
+2018:8:14:18:20:4:864, (106,257), (100,260)
+2018:8:14:18:20:5:816, (92,367), (87,364)
+2018:8:14:18:20:11:248, (316,383), (311,377)
+2018:8:14:18:20:12:136, (282,285), (276,275)
+2018:8:14:18:20:17:104, (498,85), (501,85)
+
+2018:8:14:18:20:22:752, Scattered X's Question Slide, ScatteredXs_2.txt, Medium
+2018:8:14:18:20:27:368, (64,291), (54,297)
+2018:8:14:18:20:28:352, (22,399), (27,389)
+2018:8:14:18:20:38:0, (408,67), (407,65)
+2018:8:14:18:20:40:48, (436,195)
+2018:8:14:18:20:42:88, (620,129), (610,127)
+2018:8:14:18:20:47:656, (634,388), (624,384)
+
+2018:8:14:18:20:48:816, Rating Slide
+2018:8:14:18:20:52:128, Mental, Nizko
+2018:8:14:18:20:53:792, Physical, Nizko
+2018:8:14:18:20:55:176, Temporal, Nizko
+2018:8:14:18:20:56:808, Performance, Dobro
+2018:8:14:18:20:59:632, Effort, Malo
+2018:8:14:18:21:1:632, Frustration, Zelo nizko
+
+2018:8:14:18:21:2:576, Break Slide 
+
+2018:8:14:18:21:32:578, Test Continues Slide
+
+2018:8:14:18:21:35:64, Scattered X's Question Slide, ScatteredXs_3.txt, High
+2018:8:14:18:21:40:504, (160,329), (148,330)
+2018:8:14:18:21:52:960, (455,363), (446,364)
+2018:8:14:18:21:53:648, (501,295), (501,289)
+2018:8:14:18:21:59:824, (499,86), (501,85)
+2018:8:14:18:22:3:40, (417,231), (413,228)
+
+2018:8:14:18:22:11:760, Scattered X's Question Slide, ScatteredXs_3.txt, High
+2018:8:14:18:22:14:104, (131,87), (128,87)
+2018:8:14:18:22:14:776, (66,198), (66,194)
+2018:8:14:18:22:16:808, (208,73), (201,80)
+2018:8:14:18:22:21:832, (156,333), (147,330)
+2018:8:14:18:22:44:512, (505,21), (500,25)
+
+2018:8:14:18:22:54:24, Scattered X's Question Slide, ScatteredXs_3.txt, High
+2018:8:14:18:23:2:649, (69,197), (67,194)
+2018:8:14:18:23:8:352, (125,87), (127,85)
+2018:8:14:18:23:9:872, (203,81), (202,78)
+2018:8:14:18:23:19:768, (269,279), (270,280)
+2018:8:14:18:23:35:97, Beep 
+2018:8:14:18:23:41:88, (408,246), (396,253)
+
+2018:8:14:18:24:0:353, Scattered X's Question Slide, ScatteredXs_3.txt, High
+2018:8:14:18:24:7:225, (78,194), (67,195)
+2018:8:14:18:24:11:273, (204,76), (203,79)
+2018:8:14:18:24:17:649, (270,274), (271,280)
+2018:8:14:18:24:31:97, (457,60), (454,51)
+
+2018:8:14:18:24:35:97, TimeIsUp Slide 
+
+2018:8:14:18:24:36:489, Rating Slide
+2018:8:14:18:24:40:817, Mental, Srednje
+2018:8:14:18:24:45:9, Physical, Nizko
+2018:8:14:18:24:45:961, Temporal, Zelo visoko
+2018:8:14:18:24:53:745, Performance, Dobro
+2018:8:14:18:24:55:169, Performance, Srednje
+2018:8:14:18:24:56:289, Performance, Dobro
+2018:8:14:18:24:57:609, Effort, Malo
+2018:8:14:18:24:58:793, Frustration, Zelo nizko
+
+2018:8:14:18:24:59:961, Break Slide 
+
+2018:8:14:18:25:29:963, Test Continues Slide
+
+2018:8:14:18:25:32:921, Instruction Slide, Pursuit Test Questions
+
+2018:8:14:18:26:36:591, Pursuit Test Question Slide, Pursuit_2.txt, Medium
+2018:8:14:18:27:25:337, 1, '5'
+2018:8:14:18:27:25:337, 2, '7'
+2018:8:14:18:27:25:338, 3, '2'
+2018:8:14:18:27:25:338, 4, '8'
+2018:8:14:18:27:25:338, 5, '10'
+2018:8:14:18:27:25:338, 6, '1'
+2018:8:14:18:27:25:338, 7, '3'
+2018:8:14:18:27:25:338, 8, '9'
+2018:8:14:18:27:25:338, 9, '4'
+2018:8:14:18:27:25:338, 10, '6'
+
+2018:8:14:18:27:25:338, Rating Slide
+2018:8:14:18:27:29:401, Mental, Nizko
+2018:8:14:18:27:33:505, Physical, Nizko
+2018:8:14:18:27:34:322, Temporal, Nizko
+2018:8:14:18:27:35:993, Performance, Zelo dobro
+2018:8:14:18:27:37:937, Effort, Malo
+2018:8:14:18:27:40:377, Frustration, Zelo nizko
+
+2018:8:14:18:27:41:562, Break Slide 
+
+2018:8:14:18:28:11:564, Test Continues Slide
+
+2018:8:14:18:28:14:418, Pursuit Test Question Slide, Pursuit_1.txt, Low
+2018:8:14:18:29:10:10, 1, '3'
+2018:8:14:18:29:10:10, 2, '4'
+2018:8:14:18:29:10:10, 3, '1'
+2018:8:14:18:29:10:10, 4, '2'
+2018:8:14:18:29:10:10, 5, '6'
+2018:8:14:18:29:10:10, 6, '5'
+2018:8:14:18:29:10:10, 7, '9'
+2018:8:14:18:29:10:10, 8, '10'
+2018:8:14:18:29:10:10, 9, '7'
+2018:8:14:18:29:10:10, 10, '8'
+
+2018:8:14:18:29:10:10, Rating Slide
+2018:8:14:18:29:14:362, Mental, Srednje
+2018:8:14:18:29:17:506, Physical, Srednje
+2018:8:14:18:29:20:370, Temporal, Nizko
+2018:8:14:18:29:23:242, Performance, Zelo dobro
+2018:8:14:18:29:26:394, Effort, Srednje
+2018:8:14:18:29:28:2, Frustration, Zelo nizko
+
+2018:8:14:18:29:29:26, Break Slide 
+
+2018:8:14:18:29:59:28, Test Continues Slide
+
+2018:8:14:18:30:1:458, Pursuit Test Question Slide, Pursuit_3.txt, High
+2018:8:14:18:32:1:487, Beep 
+2018:8:14:18:32:8:474, 1, '9'
+2018:8:14:18:32:8:474, 2, '10'
+2018:8:14:18:32:8:474, 3, '8'
+2018:8:14:18:32:8:474, 4, '7'
+2018:8:14:18:32:8:474, 5, '6'
+2018:8:14:18:32:8:474, 6, '5'
+2018:8:14:18:32:8:474, 7, '4'
+2018:8:14:18:32:8:474, 8, '3'
+2018:8:14:18:32:8:474, 9, '1'
+2018:8:14:18:32:8:474, 10, '2'
+
+2018:8:14:18:32:8:475, Rating Slide
+2018:8:14:18:32:10:306, Mental, Srednje
+2018:8:14:18:32:11:331, Physical, Srednje
+2018:8:14:18:32:13:298, Temporal, Visoko
+2018:8:14:18:32:19:2, Performance, Zelo dobro
+2018:8:14:18:32:20:522, Effort, Srednje
+2018:8:14:18:32:22:322, Frustration, Nizko
+
+2018:8:14:18:32:22:971, End Slide
+2018:8:14:18:32:24:146, Sync 
